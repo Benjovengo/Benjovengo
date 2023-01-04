@@ -86,16 +86,16 @@ More recently, as an <b>assistant professor</b> of the <i>Electrical Engineering
 <h3>My Latest Projects</h3>
 <ul>
   <li><a href="https://github.com/Benjovengo/VaccinationCertificate"><b>Vaccination Certificates</b></a> - a blockchain powered way to store and retrieve the vaccination history of patients<br><i>blockchain application for the medical sector</i></li>
-  <li></li>
-  <li></li>
+  <li><a href="https://github.com/Benjovengo/SmartLuxury"><b>Certificates of Ownership for Luxury Items</b></a> - secure luxury items with a blockchain-based certification of ownership that can be tracked back to the manufacturer<br><i>blockchain application for the fashion/retail industry</i></li>
+  <!-- <li></li> -->
 </ul><br>
 
 <h3>My Latest Posts</h3>
 <ul>
-  <li><b>Title</b> - <i>abstract</i><br><img alt="medium article" src="https://img.shields.io/badge/-Medium%20Article-000000?style=flat-square&logo=medium&logoColor=white"></li>
+  <li><!-- <b>Title</b> - <i>abstract</i><br><img alt="medium article" src="https://img.shields.io/badge/-Medium%20Article-000000?style=flat-square&logo=medium&logoColor=white"></li>
   <li></li>
   <li>
-  <b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Hot Article!!!</b>
+  <b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Hot Article!!!</b> -->
   </li>
 </ul>
 <br>
