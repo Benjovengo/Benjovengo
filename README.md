@@ -1,5 +1,5 @@
 <h2> Hi there 👋, I'm Fábio Benjovengo!! </h2>
-<img align='right' src="https://github.com/Benjovengo/Work/blob/master/images/FabioBenjovengo_square.jpg" width="230">
+<img align='right' src="https://github.com/Benjovengo/Benjovengo/blob/main/images/FabioBenjovengo_square.jpg" width="230">
 
 <a href="mailto:fabio.benjovengo@gmail.com"><img alt="email fabio.benjovengo@gmail.com" src="https://img.shields.io/badge/Email-fabio.benjovengo@gmail.com-EA4335?style=flat-square&logo=gmail"></a>
 <a href="https://t.me/benjovengo"><img alt="telegram @benjovengo" src="https://img.shields.io/badge/Telegram-@benjovengo-26A5E4?style=flat-square&logo=telegram"></a>
