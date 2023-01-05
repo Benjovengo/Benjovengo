@@ -85,8 +85,8 @@ More recently, as an <b>assistant professor</b> of the <i>Electrical Engineering
 
 <h3>My Latest Projects</h3>
 <ul>
-  <li><a href="https://github.com/Benjovengo/VaccinationCertificate"><b>Vaccination Certificates</b></a> - a blockchain powered way to store and retrieve the vaccination history of patients<br><i>blockchain application for the medical sector</i></li>
-  <li><a href="https://github.com/Benjovengo/SmartLuxury"><b>Certificates of Ownership for Luxury Items</b></a> - secure luxury items with a blockchain-based certification of ownership that can be tracked back to the manufacturer<br><i>blockchain application for the fashion/retail industry</i></li>
+  <li><a href="https://github.com/Benjovengo/VaccinationCertificate"><b>Vaccination Certificates</b></a> - a blockchain powered way to store and retrieve the vaccination history of patients<br><i>blockchain application for the medical sector <b>[open-source version in progress]</b></i></li>
+  <li><a href="https://github.com/Benjovengo/SmartLuxury"><b>Certificates of Ownership for Luxury Items</b></a> - secure luxury items with a blockchain-based certification of ownership that can be tracked back to the manufacturer<br><i>blockchain application for the fashion/retail industry <b>[open-source version in progress]</b></i></li>
   <!-- <li></li> -->
 </ul><br>
 
