@@ -61,7 +61,7 @@ offer.</p>
 </p>
 <p>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" />
 </p>
 <p>
   <img alt="latex" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white">
@@ -79,7 +79,7 @@ offer.</p>
 <h3>My Latest Projects</h3>
 <ul>
   <li>
-    Something big and interesting is coming soon.
+    Something big (altough physically small) and interesting is coming soon.
   </li>
 </ul>
 <br>
