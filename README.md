@@ -6,8 +6,8 @@
 <img alt="discord @benjovengo" src="https://img.shields.io/badge/Discord-@benjovengo-5865F2?style=flat-square&logo=discord">
 <br><br>
 
-<p><em>Blockchain Developer with a PhD in Electrical Enginnering<!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> --></br>Former Assistant Professor of Electrical Engineering<!-- <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">  -->
-</em></p>
+<p><em>Hardware Designer with a PhD in Electrical Enginnering</br>
+Former Assistant Professor of Electrical Engineering</em></p>
 <br>
 
 <p align="center">
@@ -18,49 +18,21 @@
 <h3>About Me</h3>
 
 <p align="justify">
-A long, long time ago I started my journey into coding. I was a little kid back then, taking my first steps as a developer on computing on my parents <i>Intel 286</i> (with 1.024MB of RAM and 40MB of space in my HD). Yet I got hooked by the virtually endless possibilities that computer programming had to offer.</p>
+A long, long time ago I started my journey into computing. I was a little kid
+back then, taking my first steps as a developer on computing on my parents
+<i>Intel 286</i> (with 1.024MB of RAM and 40MB of space in my HD). Yet I got
+hooked by the virtually endless possibilities that computer programming had to
+offer.</p>
 
 <p align="justify">
-More recently, as an <b>assistant professor</b> of the <i>Electrical Engineering School of Puc Campinas</i>, I realized that the future of mankind will rely on decentralized computing algorithms. So I decided to focus my efforts on programming the next generation of the web (a new paradigm that will reshape the world) and became a <b>blockchain developer</b>.<p><br><br>
+More recently, as an <b>assistant professor</b> of the <i>Electrical Engineering
+School of Puc Campinas</i>, I realized that the future of mankind will rely on
+decentralized computing algorithms. So I decided to focus my efforts on
+programming the next generation of the web (a new paradigm that will reshape the
+world) and became a <b>blockchain developer</b>.<p><br><br>
 
-<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=Benjovengo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+<h3>Languages and Tools</h3>
 
-![](https://raw.githubusercontent.com/Benjovengo/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/Benjovengo/github-stats-transparent/output/generated/languages.svg) -->
-
-<h3>Blockchain and Web 3.0 - Languages and Tools</h3>
-
-<p align=center>
-<img alt="chai" src="https://img.shields.io/badge/-Chai-A30701?style=flat-square&logo=chai&logoColor=white">
-<img alt="ethereum" src="https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white">
-<img alt="ipfs" src="https://img.shields.io/badge/-IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white">
-<img alt="mocha" src="https://img.shields.io/badge/-Mocha-8D6748?style=flat-square&logo=mocha&logoColor=white">
-<img alt="solidity" src="https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity">
-<img alt="open zepellin" src="https://img.shields.io/badge/-OpenZeppelin-4E5EE4?style=flat-square&logo=openzeppelin&logoColor=white">
-</p>
-
-<p align=center>
-  <img alt="css" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3">
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-14161A?style=flat-square&logo=javascript">
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="Reactjs" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-</p><br>
-
-<div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benjovengo&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
-  <br>
-</div><br>
-
-<p><b>Other Languages and Tools</b><p>
-<p>
-  <img alt="C" src="https://img.shields.io/badge/-C Programming Language-121212?style=flat-square&logo=c">
-  <img alt="c++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus">
-  <img alt="python" src="https://img.shields.io/badge/-Phython-aaaaaa?style=flat-square&logo=python">
-  <img alt="visual basic" src="https://img.shields.io/badge/-Visual%20Basic-5E5E5E?style=flat-square&logo=microsoft">
-</p>
 <p>
   <img alt="matlab and simulink" src="https://img.shields.io/badge/Matlab-Simulink-258525?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjwhLS0gU3ZnIFZlY3RvciBJY29ucyA6IGh0dHA6Ly93d3cub25saW5ld2ViZm9udHMuY29tL2ljb24gLS0+Cgo8c3ZnCiAgIHZlcnNpb249IjEuMSIKICAgeD0iMHB4IgogICB5PSIwcHgiCiAgIHZpZXdCb3g9IjAgMCAxMDAwIDEwMDAiCiAgIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAwIDEwMDAgMTAwMCIKICAgeG1sOnNwYWNlPSJwcmVzZXJ2ZSIKICAgaWQ9InN2ZzkiCiAgIHNvZGlwb2RpOmRvY25hbWU9Im1hdGxhYl93aGl0ZV9pY29uLnN2ZyIKICAgaW5rc2NhcGU6dmVyc2lvbj0iMS4yLjIgKGIwYTg0ODY1NDEsIDIwMjItMTItMDEpIgogICB4bWxuczppbmtzY2FwZT0iaHR0cDovL3d3dy5pbmtzY2FwZS5vcmcvbmFtZXNwYWNlcy9pbmtzY2FwZSIKICAgeG1sbnM6c29kaXBvZGk9Imh0dHA6Ly9zb2RpcG9kaS5zb3VyY2Vmb3JnZS5uZXQvRFREL3NvZGlwb2RpLTAuZHRkIgogICB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiAgIHhtbG5zOnN2Zz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxkZWZzCiAgIGlkPSJkZWZzMTMiIC8+PHNvZGlwb2RpOm5hbWVkdmlldwogICBpZD0ibmFtZWR2aWV3MTEiCiAgIHBhZ2Vjb2xvcj0iI2ZmZmZmZiIKICAgYm9yZGVyY29sb3I9IiMwMDAwMDAiCiAgIGJvcmRlcm9wYWNpdHk9IjAuMjUiCiAgIGlua3NjYXBlOnNob3dwYWdlc2hhZG93PSIyIgogICBpbmtzY2FwZTpwYWdlb3BhY2l0eT0iMC4wIgogICBpbmtzY2FwZTpwYWdlY2hlY2tlcmJvYXJkPSIwIgogICBpbmtzY2FwZTpkZXNrY29sb3I9IiNkMWQxZDEiCiAgIHNob3dncmlkPSJmYWxzZSIKICAgaW5rc2NhcGU6em9vbT0iMC43OTkiCiAgIGlua3NjYXBlOmN4PSI1MDAiCiAgIGlua3NjYXBlOmN5PSI1MDAiCiAgIGlua3NjYXBlOndpbmRvdy13aWR0aD0iMTkyMCIKICAgaW5rc2NhcGU6d2luZG93LWhlaWdodD0iOTc0IgogICBpbmtzY2FwZTp3aW5kb3cteD0iLTExIgogICBpbmtzY2FwZTp3aW5kb3cteT0iLTExIgogICBpbmtzY2FwZTp3aW5kb3ctbWF4aW1pemVkPSIxIgogICBpbmtzY2FwZTpjdXJyZW50LWxheWVyPSJzdmc5IiAvPgo8bWV0YWRhdGEKICAgaWQ9Im1ldGFkYXRhMiI+IFN2ZyBWZWN0b3IgSWNvbnMgOiBodHRwOi8vd3d3Lm9ubGluZXdlYmZvbnRzLmNvbS9pY29uIDwvbWV0YWRhdGE+CjxnCiAgIGlkPSJnNyIKICAgc3R5bGU9ImZpbGw6I2ZmZmZmZiI+PGcKICAgICBpZD0iX3gzNV8xNTFlMGM4NDkyZTUxMDNjMDk2YWY4OGE1MWZiZTJhIgogICAgIHN0eWxlPSJmaWxsOiNmZmZmZmYiPjxwYXRoCiAgICAgICBkPSJNNjY3LjIsNTYuNWwwLTEuNGMtMC4yLDAtMC40LDAtMC42LDBjLTIuNSwwLTUsMC4yLTcuNCwwLjZjLTMuOSwwLjItNy42LDEuMy0xMS40LDMuMmMtMjguMiwxMS42LTUwLjQsNDguNS03Ny4yLDkzLjJjLTM5LjMsNjUuNS04OC4yLDE0Ny0xNzIuMSwxNjcuNGMtMzMuMSw4LjEtNzIuMiw1NC45LTEwOS40LDEwMi4zYy0zLjQsNC4zLTYuNSw4LjMtOS4zLDExLjhsLTAuOSwxLjFMMTAsNTQ1LjlsMjE4LDE1My40YzkxLjUtNDMsMTE5LjUsMzkuMywxOTUuMywyNDUuNUM1NzUuOCw5MjcuOCw2NzguMSw2ODQuMSw3NjMuMSw2NjhjMTA1LjQtMTkuOSwxMTQuMiw2MC44LDIyNi45LDEzMC40Qzg3Ni44LDU1My40LDc1Ni42LDc5LjQsNjY3LjIsNTYuNXogTTMzOC45LDYxNS43TDIzMCw2NzAuOUw2MC41LDU1MS41TDI4OSw0NTdsNDQuMywzM2w2Ny45LDUxLjVDMzgyLjMsNTY3LjgsMzYxLjYsNTkyLjgsMzM4LjksNjE1Ljd6IE00MTUuOCw1MjAuN2wtNjcuNi01MC4zTDMwNi43LDQzOWMwLjUtMC43LDEuMS0xLjQsMS42LTIuMWMyMy45LTMwLjQsNjguMy04Ni45LDk2LTkzLjZjNzcuMS0xOC44LDEyNS44LTgwLjUsMTYzLjgtMTQwLjNDNTMxLjUsMjk1LjQsNDg2LDQxNi4zLDQxNS44LDUyMC43eiIKICAgICAgIGlkPSJwYXRoNCIKICAgICAgIHN0eWxlPSJmaWxsOiNmZmZmZmYiIC8+PC9nPjwvZz4KPC9zdmc+Cg==">
   <img alt="mathematica" src="https://img.shields.io/badge/-Mathematica-DD1100?style=flat-square&logo=wolframmathematica">
@@ -69,6 +41,23 @@ More recently, as an <b>assistant professor</b> of the <i>Electrical Engineering
   <img alt="bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white">
   <img alt="batch" src="https://img.shields.io/badge/-Batch-4D4D4D?style=flat-square&logo=windowsterminal&logoColor=white">
   <img alt="powershell" src="https://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=white">
+</p>
+<p>
+  <img alt="C" src="https://img.shields.io/badge/-C Programming Language-121212?style=flat-square&logo=c">
+  <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-14161A?style=flat-square&logo=javascript">
+  <img alt="python" src="https://img.shields.io/badge/-Phython-aaaaaa?style=flat-square&logo=python">
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="visual basic" src="https://img.shields.io/badge/-Visual%20Basic-5E5E5E?style=flat-square&logo=microsoft">
+</p>
+<p align=center>
+  <img alt="css" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3">
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="Reactjs" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+</p>
+<p>
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 <p>
   <img alt="latex" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white">
@@ -85,21 +74,15 @@ More recently, as an <b>assistant professor</b> of the <i>Electrical Engineering
 
 <h3>My Latest Projects</h3>
 <ul>
-  <li><a href="https://github.com/Benjovengo/VaccinationCertificate"><b>Vaccination Certificates</b></a> - a blockchain powered way to store and retrieve the vaccination history of patients<br><i>blockchain application for the medical sector <b>[open-source version in progress]</b></i></li>
-  <li><a href="https://github.com/Benjovengo/SmartLuxury"><b>Certificates of Ownership for Luxury Items</b></a> - secure luxury items with a blockchain-based certification of ownership that can be tracked back to the manufacturer<br><i>blockchain application for the fashion/retail industry <b>[open-source version in progress]</b></i></li>
-  <!-- <li></li> -->
-</ul><br>
-
-<h3>My Latest Posts</h3>
-<ul>
-  <li><!-- <b>Title</b> - <i>abstract</i><br><img alt="medium article" src="https://img.shields.io/badge/-Medium%20Article-000000?style=flat-square&logo=medium&logoColor=white"></li>
-  <li></li>
   <li>
-  <b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Hot Article!!!</b> -->
+    Something big and interesting is coming soon.
   </li>
 </ul>
 <br>
 
 <h3>Final Comments</h3>
 
-<p>Any job opportunities? Reach me!<br>Questions?? Ask me about anything, I am glad to help.</p><br>
+<p>
+  Reach me! I am glad to help.
+</p>
+<br>
