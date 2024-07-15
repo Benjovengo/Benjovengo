@@ -25,11 +25,15 @@ hooked by the virtually endless possibilities that computer programming had to
 offer.</p>
 
 <p align="justify">
-More recently, as an <b>assistant professor</b> of the <i>Electrical Engineering
-School of Puc Campinas</i>, I realized that the future of mankind will rely on
-decentralized computing algorithms. So I decided to focus my efforts on
-programming the next generation of the web (a new paradigm that will reshape the
-world) and became a <b>blockchain developer</b>.<p><br><br>
+  More recently, as an <b>assistant professor</b> of the <i>Electrical
+  Engineering School of Puc Campinas</i>, I realized that the future of mankind
+  will rely heavily on computers and computing modules, which are becoming
+  increasingly complex, powerful, and ubiquitous. This realization led me to
+  decide to dedicate my efforts to becoming a hardware designer, as I believe
+  that this field holds the key to shaping the future of technology and its
+  impact on humanity.
+<p>
+<br><br>
 
 <h3>Languages and Tools</h3>
 
@@ -49,7 +53,7 @@ world) and became a <b>blockchain developer</b>.<p><br><br>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="visual basic" src="https://img.shields.io/badge/-Visual%20Basic-5E5E5E?style=flat-square&logo=microsoft">
 </p>
-<p align=center>
+<p>
   <img alt="css" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3">
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
