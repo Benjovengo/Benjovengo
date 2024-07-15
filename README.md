@@ -50,7 +50,6 @@ offer.</p>
   <img alt="C" src="https://img.shields.io/badge/-C Programming Language-121212?style=flat-square&logo=c">
   <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-14161A?style=flat-square&logo=javascript">
   <img alt="python" src="https://img.shields.io/badge/-Phython-aaaaaa?style=flat-square&logo=python">
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="visual basic" src="https://img.shields.io/badge/-Visual%20Basic-5E5E5E?style=flat-square&logo=microsoft">
 </p>
 <p>
