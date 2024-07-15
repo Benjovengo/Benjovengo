@@ -29,9 +29,9 @@ offer.</p>
   Engineering School of Puc Campinas</i>, I realized that the future of mankind
   will rely heavily on computers and computing modules, which are becoming
   increasingly complex, powerful, and ubiquitous. This realization led me to
-  decide to dedicate my efforts to becoming a hardware designer, as I believe
-  that this field holds the key to shaping the future of technology and its
-  impact on humanity.
+  decide to dedicate my efforts to becoming a <b>hardware designer</b>, as I
+  believe that this field holds the key to shaping the future of technology and
+  its impact on humanity.
 <p>
 <br><br>
 
