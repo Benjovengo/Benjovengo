@@ -38,9 +38,7 @@ offer.</p>
 <h3>Languages and Tools</h3>
 
 <b>Schematic capture software:</b>
-[Altium Designer](https://www.altium.com/altium-designer).<br>
-[KiCad EDA](https://www.kicad.org/).<br>
-[Eagle](http://eagle.autodesk.com/).<br>
+[Altium Designer](https://www.altium.com/altium-designer), [KiCad EDA](https://www.kicad.org/), [Eagle](http://eagle.autodesk.com/).
 <br>
 
 <p>
