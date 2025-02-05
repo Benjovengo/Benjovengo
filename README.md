@@ -38,7 +38,9 @@ offer.</p>
 <h3>Languages and Tools</h3>
 
 <b>Schematic capture software:</b>
-[Altium Designer](https://www.altium.com/altium-designer).
+[Altium Designer](https://www.altium.com/altium-designer).<br>
+[KiCad EDA](https://www.kicad.org/).<br>
+[Eagle](http://eagle.autodesk.com/).<br>
 <br>
 
 <p>
@@ -55,12 +57,6 @@ offer.</p>
   <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-14161A?style=flat-square&logo=javascript">
   <img alt="python" src="https://img.shields.io/badge/-Python-aaaaaa?style=flat-square&logo=python">
   <img alt="visual basic" src="https://img.shields.io/badge/-Visual%20Basic-5E5E5E?style=flat-square&logo=microsoft">
-</p>
-<p>
-  <img alt="css" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3">
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="Reactjs" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 </p>
 <p>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -82,7 +78,10 @@ offer.</p>
 <h3>My Latest Projects</h3>
 <ul>
   <li>
-    Something big (altough physically small) and interesting is coming soon.
+    Currently in the final stages of designing a System-on-Module (SoM) based on NXP's i.MX 8M Plus, featuring configurations of 1 to 4GB RAM, integrated eMMC storage, Coral AI TPU, and an Atheros Wi-Fi and Bluetooth module.
+  </li>
+  <li>
+    A carrier board for the SoM featuring connectors for CSI and LVDS, one Ethernet port, GPIO header, one HDMI port, a PCIe M.2 connector, an SD Card slot, one USB-A Host, and one USB-C OTG.
   </li>
 </ul>
 <br>
@@ -90,6 +89,6 @@ offer.</p>
 <h3>Final Comments</h3>
 
 <p>
-  Reach me! I am glad to help.
+  Feel free to reach me! I am glad to help.
 </p>
 <br>
